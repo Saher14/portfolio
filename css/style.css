@@ -1114,6 +1114,33 @@ body.light hr.separator {
   padding-right: 10px;
 }
 
+.contact .link-contact {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+.contact .title-content-contact {
+  text-align: center;
+}
+
+.contact .desc-contact {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+.contact .list-links-contact {
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+
+.contact .list-links-contact div {
+  display: flex;
+  justify-content: center;
+}
+
 /*** Blog ***/
 
 .blog .main-content {
